@@ -13,6 +13,6 @@
   </p>
 </div>
 
-<div>
+<div align="center">
   <h3>© 2026 Spotlight Labs</h3>
 </div>
