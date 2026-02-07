@@ -8,7 +8,11 @@
   <p>
     <a href="https://spotlightnow.in">Website</a> ·
     <a href="https:///">Documentation</a> ·
-    <a href="https://partner.spotlightnow.in">Partner portal</a> ·
-    <a href="https://status.spotlightnow.in">Server status</a>
+    <a href="https://partner.spotlightnow.in">Partner Portal</a> ·
+    <a href="https://status.spotlightnow.in">Server Status</a>
   </p>
+</div>
+
+<div>
+  <h3>© 2026 Spotlight Labs</h3>
 </div>
