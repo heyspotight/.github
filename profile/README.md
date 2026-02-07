@@ -3,7 +3,7 @@
 
   <h1>Experience the World, Differently</h1>
 
-  <p><strong>The experience marketplace built for mobile and XR</strong></p>
+  <p><strong>Movies, Events, Dining, Activities, Travel, Stays and More</strong></p>
 
   <p>
     <a href="https://spotlightnow.in">Website</a> ·
