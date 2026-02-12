@@ -14,5 +14,5 @@
 </div>
 
 <div align="center">
-  <h3>© 2026 Spotlight Marketplace Inc.</h3>
+  <h3>© 2026 Spotlight Tech Inc.</h3>
 </div>
