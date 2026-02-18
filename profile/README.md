@@ -7,7 +7,7 @@
 
   <p>
     <a href="https://spotlightnow.in">Website</a> ·
-    <a href="https:///">Documentation</a> ·
+    <a href="https://docs.spotlightnow.in">Documentation</a> ·
     <a href="https://partner.spotlightnow.in">Partner Portal</a> ·
     <a href="https://status.spotlightnow.in">Server Status</a>
   </p>
